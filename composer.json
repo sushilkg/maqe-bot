@@ -1,0 +1,13 @@
+{
+    "name": "sushilgupta/maqe-bot",
+    "type": "project",
+    "require": {
+        "symfony/console": "^4.3"
+    },
+    "authors": [
+        {
+            "name": "Sushil Gupta",
+            "email": "deSushil@gmail.com"
+        }
+    ]
+}
